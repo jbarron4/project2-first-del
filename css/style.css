@@ -5,6 +5,7 @@ body {
 header {
   position: relative;
   background-color: #8B0000;
+  width: 100%;
 }
 
 #main-navbar ul {
@@ -38,7 +39,6 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
-  float: center;
 }
 
 #current {
