@@ -1,7 +1,6 @@
 header {
   position: relative;
   background-color: #8B0000;
-  width: 100%;
 }
 
 #main-navbar ul {
@@ -9,8 +8,6 @@ header {
   margin: 0;
   list-style-type: none;
   overflow: hidden;
-  text-align: center;
-  float: left;
 }
 
 #main-navbar ul li{
