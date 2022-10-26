@@ -1,6 +1,6 @@
 header {
   position: relative;
-  background-color: #8B000;
+  background-color: DarkRed;
 }
 
 #main-navbar ul {
@@ -26,7 +26,7 @@ header {
 }
 
 #main-navbar ul li a:hover {
-  background-color: #fff;
+  background-color: #000;
   text-decoration: underline overline;
 }
 
@@ -34,6 +34,7 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
+  background-color: darkred;
 }
 
 #current {
