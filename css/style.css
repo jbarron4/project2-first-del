@@ -45,7 +45,7 @@ header {
   text-decoration: underline overline;
 }
 
-#content {
+body #content {
 	margin-left: 50px;
 	margin-right: 50px;
 	padding: 10px;
