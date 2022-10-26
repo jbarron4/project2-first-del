@@ -1,6 +1,6 @@
 header {
   position: relative;
-  background-color: DarkRed;
+  background-color: #8B0000;
 }
 
 #main-navbar ul {
@@ -13,7 +13,7 @@ header {
 
 #main-navbar ul li{
   display: block;
-  float: left;
+  float: center;
   left: 50%;
   right: 50%;
 }
@@ -34,7 +34,6 @@ header {
   width: 100%;
   position: relative;
   text-align: center;
-  background-color: DarkRed;
 }
 
 #current {
