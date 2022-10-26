@@ -1,5 +1,9 @@
 body {
   background-color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 10px;
+  background-color: white;
 }
 
 header {
@@ -46,8 +50,5 @@ header {
 }
 
 #content {
-	margin-left: 50px;
-	margin-right: 50px;
-	padding: 10px;
-	background-color: white;
+	
 }
