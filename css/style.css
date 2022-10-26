@@ -26,7 +26,7 @@ header {
 }
 
 #main-navbar ul li a:hover {
-  background-color: #000;
+  background-color: #fff;
   text-decoration: underline overline;
 }
 
