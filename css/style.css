@@ -12,7 +12,8 @@
   position: relative;
   float: left;
   left: 50%;
-  display: inline;
+  display: inline-block;
+  text-decoration: none;
 }
 
 #main-navbar ul li{
