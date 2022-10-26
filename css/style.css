@@ -8,10 +8,11 @@ header {
   margin: 0;
   list-style-type: none;
   overflow: hidden;
+  display: inline;
 }
 
 #main-navbar ul li{
-  display: inline;
+  display: block;
   float: center;
   left: 50%;
   right: 50%;
