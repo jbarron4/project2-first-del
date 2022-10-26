@@ -12,6 +12,7 @@
   position: relative;
   float: left;
   left: 50%;
+  display: inline;
 }
 
 #main-navbar ul li{
@@ -20,7 +21,7 @@
   right: 50%;
 }
 
-#nav-container ul li a{
+#main-navbar ul li a{
   padding: 10px 20px;
   display: block;
   color: #fff;
