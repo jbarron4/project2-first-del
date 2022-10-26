@@ -15,6 +15,7 @@ header {
   float: center;
   left: 50%;
   right: 50%;
+  display: inline;
 }
 
 #main-navbar ul li a{
