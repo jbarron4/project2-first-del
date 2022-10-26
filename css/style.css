@@ -17,7 +17,7 @@ header {
 
 #main-navbar ul li{
   display: block;
-  float: center;
+  float: left;
   left: 50%;
   right: 50%;
 }
