@@ -1,6 +1,6 @@
 header {
   position: relative;
-  background-color: gray;
+  background-color: #8B000;
 }
 
 #nav ul {
@@ -26,6 +26,10 @@ header {
 }
 
 #nav ul li a:hover {
-  background-color: #8B000;
+  background-color: #000;
+  text-decoration: underline overline;
+}
+
+#current {
   text-decoration: underline overline;
 }
