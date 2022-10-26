@@ -1,7 +1,3 @@
-body {
-  background-color: black;
-}
-
 header {
   position: relative;
   background-color: #8B0000;
@@ -27,7 +23,7 @@ header {
   padding: 10px 20px;
   display: block;
   color: #fff;
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 #main-navbar ul li a:hover {
