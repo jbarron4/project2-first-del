@@ -13,7 +13,7 @@
   float: left;
   left: 50%;
   display: inline-block;
-  text-decoration: none;
+  list-style-type: none;
 }
 
 #main-navbar ul li{
