@@ -1,5 +1,23 @@
-body {
+
+
+#index {
+  background-image: ;
+  background-repeat: no-repeat;
+}
+
+#music {
+  background-image: url(../images/musicnotes.jpg);
   background-color: black;
+  background-repeat: no-repeat;
+}
+
+#about {
+  background-image: ;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  text-align: center;
 }
 
 #main-navbar {
