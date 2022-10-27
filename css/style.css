@@ -1,3 +1,7 @@
+body {
+  background-color: black;
+}
+
 #main-navbar {
   width: 100%;
   position: relative;
