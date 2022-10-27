@@ -10,8 +10,8 @@
   margin: 0;
   padding: 0;
   position: relative;
-  left: 50%;
-  float: left;
+  left: 30%;
+  right: 30%
   list-style-type: none;
 }
 
