@@ -11,11 +11,12 @@
   padding: 0;
   position: relative;
   float: left;
+  left: 50%;
   list-style-type: none;
 }
 
 #main-navbar ul li{
-  float: center;
+  float: left;
   left: 50%;
   right: 50%;
   list-style-type: none;
