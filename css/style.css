@@ -1,4 +1,4 @@
-body {
+#resume {
   background-color: black;
 }
 
@@ -47,6 +47,6 @@ body {
 #content {
   margin-left: 100px;
   margin-right: 100px;
-  padding: 5px;
+  padding: 10px;
   background-color: white;
 }
