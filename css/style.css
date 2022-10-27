@@ -7,8 +7,8 @@
 
 #music {
   background-image: url(../images/music_notes.jpg);
-  width: 100%;
-  background-repeat: no-repeat;
+  background-color: black;
+  background-repeat: repeat-x;
 }
 
 #about {
