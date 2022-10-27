@@ -2,6 +2,14 @@
   background-color: black;
 }
 
+#music {
+  background-color: black;
+}
+
+#about {
+  background-color: black;
+}
+
 #main-navbar {
   width: 100%;
   position: relative;
@@ -45,8 +53,8 @@
 }
 
 #content {
-  margin-left: 100px;
-  margin-right: 100px;
-  padding: 10px;
-  background-color: white;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 8px;
+  background-color: #FFF80D;
 }
