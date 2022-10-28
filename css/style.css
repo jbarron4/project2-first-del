@@ -5,10 +5,9 @@
 
 #headshot {
   float: left;
-}
-
-#summary {
-  float: right;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
 }
 
 /* Page 2 */
@@ -72,12 +71,13 @@ h1 {
   text-align: center;
 }
 
-h2 {
+section h2 {
   text-align: center;
 }
 
 section {
   height: 100%;
+  padding: 5px;
 }
 
 #content {
