@@ -30,6 +30,7 @@ h1 {
   margin: 0;
   padding: 0;
   position: relative;
+  height: 100%;
   list-style-type: none;
 }
 
