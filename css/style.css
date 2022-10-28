@@ -1,3 +1,5 @@
+ @import url('https://fonts.googleapis.com/css2?family=Archivo-Black&display=swap');
+
 /* Page 1 */
 #index {
   background-color: #4682B4;
@@ -69,10 +71,12 @@
 
 h1 {
   text-align: center;
+  font-family: 'Archivo Black';
 }
 
 section h2 {
   text-align: center;
+  font-family: arial;
 }
 
 section {
