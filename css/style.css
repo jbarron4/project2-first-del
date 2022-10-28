@@ -1,23 +1,31 @@
-
-
+/* Page 1 */
 #index {
   background-color: #4682B4;
 }
 
+#headshot {
+  float: left;
+}
+
+#summary {
+  float: right;
+}
+
+/* Page 2 */
 #music {
   background-image: url(../images/music_notes.jpg);
   background-color: black;
   background-repeat: repeat-x;
 }
 
-#about {
+/* Page 3 */
+#about {  
   background-color: #8B0000;
 }
 
-h1 {
-  text-align: center;
-}
+/* -------------------------------------------------- */
 
+/* All Pages */
 #main-navbar {
   width: 100%;
   position: relative;
@@ -58,6 +66,14 @@ h1 {
 
 #current {
   text-decoration: underline overline;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
 }
 
 section {
