@@ -33,6 +33,9 @@
   max-width: 40%;
   display: block;
   left: 50%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
 }
 
 /* -------------------------------------------------- */
