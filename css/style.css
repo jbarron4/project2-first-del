@@ -10,7 +10,7 @@
   border-width: 2px;
   border-style: solid;
   border-color: black;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 /* Page 2 */
@@ -87,6 +87,13 @@ section {
 
 p {
   font-family: arial;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  left: 50%;
 }
 
 #content {
