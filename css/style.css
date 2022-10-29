@@ -29,7 +29,7 @@
   background-color: #8B0000;
 }
 
-#about section img {
+.center {
   width: 40%;
   height: auto;
   max-width: 40%;
