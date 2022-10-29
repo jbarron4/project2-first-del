@@ -2,7 +2,7 @@
 
 /* Page 1 */
 #index {
-  background-color: #4682B4;
+  background-color: #FFFFFF;
 }
 
 #headshot {
@@ -26,7 +26,9 @@
 
 /* Page 3 */
 #about {  
-  background-color: #8B0000;
+  background-image: url(../images/mixed_bg.jpg);
+  object-fit: cover;
+  background-color: #FFFFFF;
 }
 
 .center {
@@ -112,8 +114,8 @@ p {
 }
 
 #content {
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 16%;
+  margin-right: 16%;
   padding-left: 8px;
   padding-right: 8px;
   padding-top: 3px;
