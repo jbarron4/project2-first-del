@@ -11,6 +11,8 @@
   border-style: solid;
   border-color: black;
   margin-right: 10px;
+  width: 20%;
+  height: auto;
 }
 
 /* Page 2 */
@@ -29,6 +31,7 @@
   width: 40%;
   height: auto;
   max-width: 40%;
+  display: block;
   left: 50%;
 }
 
@@ -109,4 +112,5 @@ p {
   padding-top: 3px;
   background-color: #FAEBD7;
   height: 100%;
+  min-width: 50%;
 }
