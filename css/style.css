@@ -125,6 +125,6 @@ p {
 iframe {
   border-radius: 12px;
   width: 100%;
-  height: 352;
+  height: auto;
   border: 0;
 }
