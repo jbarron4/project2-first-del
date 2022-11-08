@@ -30,6 +30,7 @@
   object-fit: cover;
 }
 
+/*
 .center {
   width: 40%;
   height: auto;
@@ -40,6 +41,27 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+*/
+
+.layout-left {
+  float: left;
+  width: auto;
+  padding: 5px;
+  margin: 2%;
+  display: block;
+}
+
+.layout-right {
+  float: right;
+  width: 30%;
+  height: auto;
+  padding: 5px;
+  display: block;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  
 }
 
 /* -------------------------------------------------- */
